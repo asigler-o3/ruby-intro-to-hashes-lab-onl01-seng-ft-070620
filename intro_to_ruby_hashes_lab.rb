@@ -55,7 +55,7 @@ def monopoly_with_fourth_tier
 
 								},
 								shortline: {
-									
+
 								}
 							},
 							rent_in_dollars: {
