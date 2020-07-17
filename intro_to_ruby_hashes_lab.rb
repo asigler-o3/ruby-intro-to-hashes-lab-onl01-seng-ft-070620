@@ -55,7 +55,7 @@ def monopoly_with_fourth_tier
 
 								},
 								shortline: {
-									value: "$800"
+									"mortgage_value"
 								}
 							},
 							rent_in_dollars: {
