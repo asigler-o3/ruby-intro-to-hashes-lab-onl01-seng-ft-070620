@@ -55,7 +55,7 @@ def monopoly_with_fourth_tier
 
 								},
 								shortline: {
-									 "$800"
+									value: "$800"
 								}
 							},
 							rent_in_dollars: {
